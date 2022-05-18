@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278083890711",
+    "project_id": "vishnu-sports",
+    "storage_bucket": "vishnu-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278083890711:android:7519b476b182cc8130f652",
+        "android_client_info": {
+          "package_name": "com.example.vishnusports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278083890711-vl1r854ptikj2k9809t8v7udg8b1s1jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0jSQzcmCo1hEYcxwsvkf_IR03E0iUGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278083890711-vl1r854ptikj2k9809t8v7udg8b1s1jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
